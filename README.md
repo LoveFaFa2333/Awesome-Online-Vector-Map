@@ -5,6 +5,7 @@ Methods of online HDmap for autonomous driving. Please note that the year classi
 1. **MapFusion**: A Novel BEV Feature Fusion Network for Multi-modal Map Construction. arXiv preprint arXiv:2502.04377 (2025). [[paper](https://www.arxiv.org/pdf/2502.04377)]
 2. **Chameleon**: Fast-slow Neuro-symbolic Lane Topology Extraction. ICRA, 2025. [[paper](https://arxiv.org/pdf/2503.07485)] [[code](https://github.com/XR-Lee/neural-symbolic)]
 3. **CleanMAP**: Distilling Multimodal LLMs for Confidence-Driven Crowdsourced HD Map Updates. CVPR WDFM-AD Workshop, 2025. [[paper](https://arxiv.org/pdf/2504.10738)] [[project page](https://ankit-zefan.github.io/CleanMap/)]
+4. **SeqGrowGraph**: Learning Lane Topology as a Chain of Graph Expansions. ICCV, 2025. [[paper](https://arxiv.org/pdf/2507.04822)] [[code](https://github.com/MIV-XJTU/SeqGrowGraph?tab=readme-ov-file)]
 ## 2024
 1. **Streammapnet**: Streaming mapping network for vectorized online hd map construction. WACV, 2024. [[paper](https://arxiv.org/pdf/2308.12570)] [[code](https://github.com/yuantianyuan01/StreamMapNet)]
 2. **HybriMap**: Hybrid Clues Utilization for Effective Vectorized HD Map Construction. arXiv preprint arXiv:2404.11155 (2024). [[paper](https://arxiv.org/pdf/2404.11155)]
